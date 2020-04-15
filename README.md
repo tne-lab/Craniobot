@@ -20,7 +20,7 @@ The GUI displays the drill current position, as well a record of where cuts have
 After each pass the user has the option of doing another pass, each 0.1 mm deeper.  Screw holes are set to be 1.0 mm deep, but the user has 
 the option of going deeper in 0.1 mm increments.  The position of the drill along any axis can be manipulated by the control buttons on the GUI.
 ![][GUI]
-
+![][Designer]
 
 
 
