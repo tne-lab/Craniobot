@@ -75,6 +75,6 @@ b. choose 64 bit if your computer is 64 bit.
 8.	Copy entire craniobot directory to your desktop. see G:\Shared drives\TNEL - UMN\Project related material\craniobot
 9.	Now you should be ready to use the craniobot application. NOTE: Be sure to exit Craniobot using Windows exit “X” on top right of window. If not, all motors will be locked out (that is, already in use). To fix this problem, run Thorlabs Kinesis software. Load all three motors. When all three alre loaded, unload all, then run Carniobot again.
 
-[MAINGUI]: https://github.com/tne-lab/Craniobot/blob/master/RESOURCES/Designer.PNG "GUI" 
+[MAINGUI]: https://github.com/tne-lab/Craniobot/blob/master/RESOURCES/GUI.PNG "GUI" 
 
 [Designer]: https://github.com/tne-lab/Craniobot/blob/master/RESOURCES/Designer.PNG "GUI" 
