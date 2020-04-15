@@ -26,4 +26,4 @@ the option of going deeper in 0.1 mm increments.  The position of the drill alon
 
 [GUI]: https://github.com/tne-lab/Craniobot/blob/master/RESOURCES/GUI.PNG "GUI" 
 
-[GUI]: https://github.com/tne-lab/Craniobot/blob/master/RESOURCES/Designer.PNG "GUI" 
+[Designer]: https://github.com/tne-lab/Craniobot/blob/master/RESOURCES/Designer.PNG "GUI" 
