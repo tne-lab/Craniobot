@@ -10,7 +10,7 @@ and a python GUI interface developed by Flavio JK da Silva and Mark Scatza along
 The *.stl files as well as the FreeCAD files are available here in the PARTS folder.
 
 ## GUI interface
-![][GUI]
+![][MAINGUI]
 Control of the robot is done using setupGUI2.0.py. Drill_holes2.py and drill_craniotomy.py are called by the GUI. 
 Some ThorLabs control functions are included in the throlabs_apt_master folder. The RESOURCES folder contains GUI elements, logos, and graphics. After the skull is surgically exposed,  The robot is pushed against the stereotaxic equipment to align the XY plane of the robot with the XY plane of the sterotaxic equipment.
 Then use the XYZ motion control buttons to move the drill to the rodent (0,0,0) point (the Bregma location) to establish a point of correspondance between the robot and rodent coordinates.  
@@ -75,6 +75,6 @@ b. choose 64 bit if your computer is 64 bit.
 8.	Copy entire craniobot directory to your desktop. see G:\Shared drives\TNEL - UMN\Project related material\craniobot
 9.	Now you should be ready to use the craniobot application. NOTE: Be sure to exit Craniobot using Windows exit “X” on top right of window. If not, all motors will be locked out (that is, already in use). To fix this problem, run Thorlabs Kinesis software. Load all three motors. When all three alre loaded, unload all, then run Carniobot again.
 
-[GUI]: https://github.com/tne-lab/Craniobot/blob/master/RESOURCES/GUI.PNG "GUI" 
+[MAINGUI]: https://github.com/tne-lab/Craniobot/blob/master/RESOURCES/GUI.PNG "GUI" 
 
 [Designer]: https://github.com/tne-lab/Craniobot/blob/master/RESOURCES/Designer.PNG "GUI" 
